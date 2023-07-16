@@ -14,7 +14,7 @@ import threading
 from captcha.image import ImageCaptcha
 import random
 import string
-from src.classifier import Classifier
+#from src.classifier import Classifier
 from pathlib import Path
 
 # add project directory as a path for importing modules
