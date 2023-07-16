@@ -1,7 +1,7 @@
 altair
 pandas
 streamlit
-streamlit_star_rating
+st-star-rating
 matplotlib
 numpy
 captcha
