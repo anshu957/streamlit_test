@@ -1,1 +1,10 @@
-
+ClassifierID,ClassifierName,Date,Submitter,F1,WindowSize,Comments,FileName
+JABS001,turn_left,20220628,Leinani,0.95,5,XGBoost,L_turn_left_training_20220628_135735
+JABS002,turn_right,20220628,Leinani,0.88,5,XGBoost,L_turn_right_training_20220628_125914
+JABS003,escape,20220607,Leinani,0.86,2,XGBoost,escape_training_20220607_112437
+JABS004,grooming,20220612,Brian Guether,,60,XGBoost,grooming_training_20220612_151211
+JABS005,rearing_supported,20220607,Vivek Kumar,0.91,5,XGBoost,rearing_supported_training_20220607_165024
+JABS006,rearing_unsupported,20220607,Vivek Kumar,0.73,10,XGBoost,rearing_unsupported_training_20220607_172217
+JABS007,scratch,20220531,Leinani,0.8,5,XGBoost,scratch_training_20220531_150714
+JABS008,turn_left,20220607,Vivek Kumar,0.73,5,XGBoost,turn_left_training_20220607_142005 
+JABS009,turn_right,20220607, Vivek Kumar,0.89,20, XGBoost,turn_right_training_20220607_163826
